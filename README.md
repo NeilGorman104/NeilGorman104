@@ -29,11 +29,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
-## 📊 Coding Stats
-
-![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeilGorman104&show_icons=true&count_private=true&theme=gruvbox)
-
-
 
 ## <img src="https://raw.githubusercontent.com/NeilGorman104/NeilGorman104/master/gifs/handshaking.gif" width="30px"> Let's Keep in Touch
 
