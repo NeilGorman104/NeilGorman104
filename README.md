@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/NeilGorman104/NeilGorman104/master/gifs/wave.gif" width="30px"> Hello, I am Neil Gorman
 
- I am a data engineer at Ryan-Miranda Partners in Pasadena, California and live in Boston, Massachusetts. I have a Bachelors degree in Computer Science. 
+ I am a data engineer living in Boston, Massachusetts. I have a Bachelors degree in Computer Science. 
 
 
 
@@ -34,7 +34,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/neil-gorman-985b181b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gorman,Neil-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://ryan-miranda.com/"><img alt="Website" src="https://img.shields.io/badge/Website-RM-maroon?style=flat-square&logo=google-chrome"></a>
 
  
- - 📫 neil@ryan-miranda.com 
+ - 📫 gorman125@gmail.com 
